@@ -15,3 +15,4 @@ aws_credentials.json
 tmp
 tags
 .virtualenv/
+*.log
